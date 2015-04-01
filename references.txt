@@ -1,0 +1,2 @@
+Bootstrap reference - http://getbootstrap.com/css/
+Udacity's Intro to HTML and CSS
